@@ -1,6 +1,6 @@
-# miniconda-uvicorn
+## miniconda-uvicorn
 
-## To build and run on your local pc
+### To build and run on your local pc
 
 ```
 docker build -t myproject:v2 .
